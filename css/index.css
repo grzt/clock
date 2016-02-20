@@ -1,0 +1,13 @@
+#canvas{
+	border: 1px solid #333;
+	position: absolute;
+	top: 8px;
+	left: 8px;
+	z-index: 3;
+}
+#canvas1{
+	position: absolute;
+	top: 8px;
+	left: 8px;
+	border: 1px solid #333;
+}
